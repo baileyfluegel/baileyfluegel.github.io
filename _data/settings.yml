@@ -11,7 +11,7 @@ menu:
 
 projects:
 projects:
-- {name: 'Gofar Transform Fault (Vulcan CSEM)', url: 'projects/gofar-csem'}
+- {name: 'Gofar Transform Fault (Vulcan CSEM)', url: 'projects/gofar-csem', image: 'gofar_home.jpeg'}
 - {name: 'Hektoria Glacier (Remote Sensing)', url: 'hektoria-remotesensing'}
 - {name: 'Hikurangi Subduction Zone (CSEM + MT)', url: 'hikurangi-em'}
 - {name: 'Hawaiʻi Offshore Freshwater (CSEM + MT)', url: 'hawaii-freshwater-csem'}
