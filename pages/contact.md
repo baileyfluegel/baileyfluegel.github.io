@@ -6,4 +6,4 @@ permalink: /contact
 
 # Contact
 
-You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+Please feel free to contact me [through my email](mailto:bfluegel@mit.edu) (bfluegel@mit.edu or bailey.fluegel@whoi.edu) if you have any questions or would like to learn more about my research. I am always interested in exploring new ideas and collaborations, so don’t hesitate to reach out!
