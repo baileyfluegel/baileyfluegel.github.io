@@ -22,7 +22,7 @@ projects:
 
 social:
 - {icon: 'linkedin',  link: 'https://linkedin.com/in/baileyfluegel'}
-- {icon: 'envelope',  link: 'mailto:mailto:bfluegel@mit.edu'}
+- {icon: 'envelope',  link: 'mailto:bfluegel@mit.edu'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
