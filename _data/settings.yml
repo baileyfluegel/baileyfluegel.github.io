@@ -10,7 +10,7 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Gofar Transform Fault (Vulcan CSEM)', url: 'gofar-csem'}
+- {name: 'Gofar Transform Fault (Vulcan CSEM)', url: '2024-01-01-gofar-csem'}
 - {name: 'Hektoria Glacier (Remote Sensing)', url: 'hektoria-remotesensing'}
 - {name: 'Hikurangi Subduction Zone (CSEM + MT)', url: 'hikurangi-em'}
 - {name: 'Hawaiʻi Offshore Freshwater (CSEM + MT)', url: 'hawaii-freshwater-csem'}
